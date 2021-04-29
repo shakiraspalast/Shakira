@@ -55,7 +55,7 @@
                 {
                  "name":"jitsyRoom",
                  "type":"string",
-                 "value":""
+                 "value":"Lillys Sofaecke"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"jitsyRoom",
                  "type":"string",
-                 "value":""
+                 "value":"Linas Bett"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"jitsyRoom",
                  "type":"string",
-                 "value":""
+                 "value":"Balkon"
                 }],
          "type":"tilelayer",
          "visible":true,
